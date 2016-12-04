@@ -30,9 +30,11 @@
 *.exe
 *.out
 *.app
+*.VC
+*.VC.db
+*.opendb
 
 ipch/
 .vs/
-*.VC
-*.db
-*.opendb
+
+Zadanie1/Zadanie1.VC.db
