@@ -36,5 +36,7 @@
 
 ipch/
 .vs/
+x64/
 
 Zadanie1/Zadanie1.VC.db
+*.db
