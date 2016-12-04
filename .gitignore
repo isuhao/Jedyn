@@ -31,4 +31,4 @@
 *.out
 *.app
 
-Zadanie1/ipch/
+*ipch*
